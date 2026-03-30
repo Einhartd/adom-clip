@@ -1,0 +1,11 @@
+jupyter
+ipywidgets
+
+transformers
+opencv-python
+matplotlib
+pandas
+scikit-learn
+umap-learn
+
+git+https://github.com/openai/CLIP.git
