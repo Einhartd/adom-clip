@@ -208,3 +208,5 @@ __marimo__/
  
 
 images/MNIST
+data/imagenet-a
+data/imagenet-r
