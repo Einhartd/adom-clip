@@ -189,6 +189,11 @@ cython_debug/
 .vscode/
 .vscode
 
+.imagenet-a/
+.imagenet-r/
+.lmms-lab___flickr30k/
+.MNIST/
+
 # Ruff stuff:
 .ruff_cache/
 
@@ -211,3 +216,25 @@ __marimo__/
 images/MNIST
 data/imagenet-a
 data/imagenet-r
+data/FashionMNIST/raw/t10k-images-idx3-ubyte
+data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+data/FashionMNIST/raw/train-images-idx3-ubyte
+data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+data/FashionMNIST/raw/train-labels-idx1-ubyte
+data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/dataset_info.json
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00000-of-00009.arrow
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00001-of-00009.arrow
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00002-of-00009.arrow
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00003-of-00009.arrow
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00004-of-00009.arrow
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00005-of-00009.arrow
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00006-of-00009.arrow
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00007-of-00009.arrow
+data/lmms-lab___flickr30k/default/0.0.0/765d117f3eec816f2bfdc2d73ebb50a6f77b86a4/flickr30k-test-00008-of-00009.arrow
+data/MNIST/raw/t10k-images-idx3-ubyte
+data/MNIST/raw/t10k-labels-idx1-ubyte
+data/MNIST/raw/train-images-idx3-ubyte
+data/MNIST/raw/train-labels-idx1-ubyte
